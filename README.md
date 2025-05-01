@@ -1,3 +1,30 @@
+# 📱 My React Native App (Expo)
+
+A modern mobile application built with **React Native** using **Expo CLI** for rapid development and cross-platform support (iOS, Android, and Web).
+
+---
+
+## ✨ Features
+
+- 🚀 Fast development with [Expo](https://expo.dev/)
+- 🔀 Navigation with [React Navigation](https://reactnavigation.org/)
+- ⚛️ React Native Components
+- 📦 Easy dependency management
+- 🔧 Ready for EAS builds and OTA updates
+- 💻 Web support with Expo Web
+
+---
+
+## 📦 Requirements
+
+- [Node.js](https://nodejs.org/) (>= 14.x recommended)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/) (`npm install -g expo-cli`)
+- [Yarn](https://classic.yarnpkg.com/lang/en/) or npm
+- Emulator or physical device (Android/iOS)
+- Optional: [Expo Go](https://expo.dev/client) app on your mobile device
+
+---
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
